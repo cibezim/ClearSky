@@ -22,6 +22,10 @@ ClearSky is a simple weather app that allows users to check the current weather 
 3. Enter the name of the city you want to check the weather for in the search bar.
 4. Press Enter or click the search button to see the current weather conditions for the specified city.
 
+## Deployment
+
+This project is deployed on [Netlify](https://cibezimclearsky.netlify.app/).
+
 ## Credits
 
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/).
